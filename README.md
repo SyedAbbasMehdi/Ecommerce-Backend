@@ -29,7 +29,7 @@ src/
 ## ⚙️ Setup Instructions
 
 1. Clone the repository  
-   git clone https://github.com/your-username/Ecommerce_Backend.git
+   git clone https://github.com/SyedAbbasMehdi/Ecommerce_Backend.git
 
 2. Import project  
    Open in IntelliJ IDEA or Eclipse as a Maven project
